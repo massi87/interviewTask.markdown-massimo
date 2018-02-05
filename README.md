@@ -1,7 +1,7 @@
 # interviewTask.markdown-massimo
 exam for the interview by massimo di porto
 
-to setup and run this project: it's sufficient to open the html file (index.html inside the directory).
+to setup and run this project: it's sufficient to **open the html file** (index.html inside the directory).
 
 i made the work with pure JAVASCRIPT (there is jquery for the bootstrap, but i don't know if this is permitted).
 
